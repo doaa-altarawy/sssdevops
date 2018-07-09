@@ -2,7 +2,6 @@
 Main python file for the sssdevops example
 """
 
-# import statements go here
 
 
 def mean(num_list):
