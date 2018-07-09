@@ -23,7 +23,8 @@ if __name__ == "__main__":
                 'numpydoc',
             ],
             'tests': [
-                'pytest',
+                'pytest>3.0',
+                'pytest-cov',
                 'codecov'
             ],
             'develop': [   # extra
