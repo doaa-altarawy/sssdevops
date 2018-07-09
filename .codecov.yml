@@ -19,8 +19,8 @@ coverage:
 # --------------
 # which folders/files to ignore
 ignore:
-  - sssdevops/_version.py
   - sssdevops/tests/.*
+  - sssdevops/_version.py
 
 # Pull request comments:
 # ----------------------
