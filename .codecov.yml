@@ -22,7 +22,6 @@ ignore:
   - sssdevops/_version.py
   - sssdevops/tests/.*
 
-
 # Pull request comments:
 # ----------------------
 # Diff is the Coverage Diff of the pull request.
