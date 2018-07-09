@@ -21,6 +21,8 @@ coverage:
 ignore:
   - sssdevops/tests/.*
   - sssdevops/_version.py
+  - setup.py
+  - versioneer.py
 
 # Pull request comments:
 # ----------------------
