@@ -26,7 +26,7 @@ before_install:
   - ulimit -a
 
 # Install the library with test requirements
-  - pip install -e .[tests]
+  - pip install -e .[tests,develp]
 
 script:
 #  - pytest -v --cov=./
