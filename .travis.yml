@@ -35,4 +35,4 @@ script:
 
 # if successful, track code coverage with codecov
 after_success:
-#  - codecov
+  - codecov
